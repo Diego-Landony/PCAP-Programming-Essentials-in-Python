@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 print("The itsy bitsy spider" , "climbed up" , "the waterspout.")
 
 #There is one print() function invocation, but it contains three arguments. All of them are strings.
