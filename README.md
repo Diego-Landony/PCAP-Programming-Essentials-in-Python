@@ -1,5 +1,4 @@
 # PCAP-Programming-Essentials-in-Python
-Learn programming from scratch and master Python.  By Cisco Networking Academy in collaboration with OpenEDG Python Institute
 
 This course is the first in a two-course Python Essentials series. It covers everything you need to know to start designing, writing, running, debugging, and improving Python programs at the foundational level. It also fully prepares you for the [PCEP – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep) certification exam from the Python Institute.
 
