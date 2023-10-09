@@ -10,12 +10,13 @@ Don't change anything in the second `print()` invocation.
 
 Programming***Essentials***in...Python
 
----
 code:
 ```python
 print("Programming","Essentials","in")
 print("Python")
 ```
+
+---
 
 ## 2.1.13 LAB: Formatting the output
 
