@@ -5,7 +5,7 @@ Welcome to Module 2 of PE1. In this module, you will explore Python data types, 
 ## [2.1. Section 1 – The "Hello, World!" Program](/PE1:%20Module%202.%20Python%20Data%20Types,%20Variables,%20Operators,%20and%20Basic%20I/2.1.%20Section%201%20–%20The%20"Hello,%20World!"%20Program/)
 - Introduction to the classic "Hello, World!" program.
 - Writing and running your first Python program. 
-## 2.2. Section 2 – Python Literals
+## [2.2. Section 2 – Python Literals](/PE1:%20Module%202.%20Python%20Data%20Types,%20Variables,%20Operators,%20and%20Basic%20I/2.2.%20Section%202%20–%20Python%20literals/)
 - Understanding Python literals, including numeric, string, and boolean literals.
 - How to use and work with different types of literals in Python.
 
