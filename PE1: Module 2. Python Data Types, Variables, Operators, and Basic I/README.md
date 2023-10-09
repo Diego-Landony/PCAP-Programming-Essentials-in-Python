@@ -2,7 +2,7 @@
 
 Welcome to Module 2 of PE1. In this module, you will explore Python data types, variables, operators, and basic input/output operations. Below is an outline of the sections you'll cover in this module.
 
-## 2.1. Section 1 – The "Hello, World!" Program
+## [2.1. Section 1 – The "Hello, World!" Program](/PE1:%20Module%202.%20Python%20Data%20Types,%20Variables,%20Operators,%20and%20Basic%20I/2.1.%20Section%201%20–%20The%20"Hello,%20World!"%20Program/)
 - Introduction to the classic "Hello, World!" program.
 - Writing and running your first Python program. 
 ## 2.2. Section 2 – Python Literals
