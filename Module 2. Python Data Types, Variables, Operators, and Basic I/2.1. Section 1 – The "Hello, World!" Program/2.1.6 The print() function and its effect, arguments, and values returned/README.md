@@ -8,7 +8,9 @@ Don't change anything in the second `print()` invocation.
 
 ### Expected output
 
+```
 Programming***Essentials***in...Python
+```
 
 code:
 ```python
