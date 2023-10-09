@@ -11,6 +11,11 @@ Don't change anything in the second `print()` invocation.
 Programming***Essentials***in...Python
 
 ---
+code:
+```python
+print("Programming","Essentials","in")
+print("Python")
+```
 
 ## 2.1.13 LAB: Formatting the output
 
@@ -27,3 +32,15 @@ Try to:
 - Do the same with some of the parentheses.
 - Change any of the print words into something else, differing only in case (e.g., Print) ‒ what happens now?
 - Replace some of the quotes with apostrophes; watch what happens carefully.
+
+code:
+```python
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+```
