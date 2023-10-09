@@ -12,4 +12,4 @@ In your first lab:
 - Then, remove the parentheses, put back the double quotes, and run your code again. What kind of error is thrown this time?
 - Experiment as much as you can. Change double quotes to single quotes, use multiple print() functions on the same line, and then on different lines. See what happens.
 
-[My file: LAB.py](Lab.py)
+[My file: LAB.py](LAB.py)
