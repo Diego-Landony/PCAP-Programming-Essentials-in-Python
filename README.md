@@ -3,7 +3,9 @@ Learn programming from scratch and master Python.  By Cisco Networking Academy i
 
 This course is the first in a two-course Python Essentials series. It covers everything you need to know to start designing, writing, running, debugging, and improving Python programs at the foundational level. It also fully prepares you for the [PCEP – Certified Entry-Level Python Programmer](https://pythoninstitute.org/pcep) certification exam from the Python Institute.
 
+---
 The course is divided into four modules:
+---
 
 -[Module 1](/Module%201.%20Introduction%20to%20Python%20and%20Computer%20Programming/)
 Introduction to Python and computer programming;
@@ -16,5 +18,3 @@ Boolean values, conditional execution, loops, lists and list processing, logical
 
 [Module 4](/Module%204.%20Functions,%20Tuples,%20Dictionaries,%20Exceptions,%20and%20Data%20Processing/)
 Functions, tuples, dictionaries, exceptions, and data processing.
-
-

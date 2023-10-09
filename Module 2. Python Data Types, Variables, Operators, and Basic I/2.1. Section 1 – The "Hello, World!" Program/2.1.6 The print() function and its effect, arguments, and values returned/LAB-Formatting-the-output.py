@@ -16,6 +16,7 @@ print()
 #- Minimize the number of `print()` function invocations by inserting the `\n` sequence into the strings.
 print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****")
 print()
+
 #- Make the arrow twice as large (but keep the proportions).
 print("        *        ")
 print("       * *       ")
@@ -33,6 +34,7 @@ print("     *     *     ")
 print("     *     *     ")
 print("     *     *     ")
 print("     *******     ")
+print()
 #- Duplicate the arrow, placing both arrows side by side. Note: a string may be multiplied by using the following trick: `"string" * 2` will produce `"stringstring"` (we'll tell you more about it soon).
 print("        *        "*2)
 print("       * *       "*2)
@@ -50,6 +52,7 @@ print("     *     *     "*2)
 print("     *     *     "*2)
 print("     *     *     "*2)
 print("     *******     "*2)
+print()
 #- Remove any of the quotes, and look carefully at Python's response; pay attention to where Python sees an error ‒ is this the place where the error really exists?
 
 #SyntaxError: invalid syntax
