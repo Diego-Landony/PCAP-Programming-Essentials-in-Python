@@ -1,4 +1,8 @@
 {
     "editor.fontSize": 13,
-    "editor.renderWhitespace": "none"
+    "editor.renderWhitespace": "none",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.suggest.showStatusBar": true,
+    "gitlens.statusBar.alignment": "right"
 }
